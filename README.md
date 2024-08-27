@@ -1,30 +1,28 @@
-Here’s a template for a `README.md` file for your TaskForge project on GitHub:
-
 ```markdown
-# TaskForge
+TaskForge
 
 TaskForge is a comprehensive task and project management application designed to help individuals and teams streamline their workflow. It offers powerful features for task organization, project tracking, team collaboration, and more.
 
-## Features
+Features
 
-- **Task Management**: Create, organize, and prioritize tasks with ease.
-- **Project Tracking**: Plan and monitor project progress effectively.
-- **Team Collaboration**: Share tasks and collaborate in real-time.
-- **Time Tracking**: Keep track of the time spent on tasks and projects.
-- **Communication Tools**: Use built-in chat and comment features for smooth communication.
+- Task Management: Create, organize, and prioritize tasks with ease.
+- Project Tracking: Plan and monitor project progress effectively.
+- Team Collaboration: Share tasks and collaborate in real-time.
+- Time Tracking: Keep track of the time spent on tasks and projects.
+- Communication Tools: Use built-in chat and comment features for smooth communication.
 
-## Libraries and Dependencies
+Libraries and Dependencies
 
 The project uses the following libraries and dependencies:
 
-- **React**: A JavaScript library for building user interfaces.
-- **Next.js**: A React framework for server-side rendering and static site generation.
-- **TailwindCSS**: A utility-first CSS framework for styling.
-- **React Icons**: A library for including icons in React applications.
-- **React Modal**: For displaying modal dialogs.
-- **next/router**: A routing library for Next.js applications.
+- React: A JavaScript library for building user interfaces.
+- Next.js: A React framework for server-side rendering and static site generation.
+- TailwindCSS: A utility-first CSS framework for styling.
+- React Icons: A library for including icons in React applications.
+- React Modal: For displaying modal dialogs.
+- next/router: A routing library for Next.js applications.
 
-## Getting Started
+Getting Started
 
 To get started with TaskForge, follow these steps:
 
