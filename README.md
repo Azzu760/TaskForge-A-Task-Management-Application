@@ -1,4 +1,3 @@
-```markdown
 TaskForge
 
 TaskForge is a comprehensive task and project management application designed to help individuals and teams streamline their workflow. It offers powerful features for task organization, project tracking, team collaboration, and more.
