@@ -73,6 +73,5 @@ For any questions or feedback, please open an issue in the GitHub repository or 
 ---
 
 Enjoy using TaskForge! 🚀
-```
 
 Replace `yourusername` with your GitHub username and adjust the contact email and any other details specific to your project. This README provides a comprehensive overview and instructions for setting up and contributing to your project.
